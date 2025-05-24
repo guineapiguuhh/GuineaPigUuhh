@@ -17,6 +17,8 @@
   - [Discord](res/data/Discord.md)
   - [Youtube](https://www.youtube.com/channel/UCdOS2LIS1up0eeE3KNqlgqg)
   - [Gamebanana](https://gamebanana.com/members/2300290)
+  - [Retro Achievements](https://retroachievements.org/user/GuineaPigUuhh)
+  - [SoundCloud](https://soundcloud.com/guinea-pig-684185023)
 </details>
 
 <details>
