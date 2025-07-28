@@ -7,7 +7,7 @@
   <summary>Favorite tools</summary>
 
   <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=haxe,haxeflixel,lua,python,js,github,vscode"/>
+  <img src="https://skillicons.dev/icons?i=haxe,haxeflixel,godot,lua,github,vscode"/>
   </a>
 </details>
 
