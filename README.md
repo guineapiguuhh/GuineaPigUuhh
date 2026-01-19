@@ -17,7 +17,7 @@
   <div align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img src="https://my-github-stats-seven-roan.vercel.app/api?username=GuineaPigUuhh&show_icons=true&hide_border=true&theme=dark" height=180/>
-      <img src="https://my-github-stats-seven-roan.vercel.app/api/top-langs/?username=GuineaPigUuhh&layout=compact&hide_border=true&theme=dark" height=180/>
+      <img src="https://my-github-stats-seven-roan.vercel.app/api/top-langs/?username=GuineaPigUuhh&layout=compact&hide_border=true&count-private=false&theme=dark" height=180/>
     </a>
   </div>
 </details>
