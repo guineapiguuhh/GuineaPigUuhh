@@ -7,7 +7,7 @@
   <summary>Favorite tools</summary>
 
   <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=godot,zig,cs,github,neovim,git"/>
+  <img src="https://skillicons.dev/icons?i=godot,rust,zig,cs,github,neovim,git"/>
   </a>
 </details>
 
