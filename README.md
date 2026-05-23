@@ -9,6 +9,6 @@
   <summary>Favorite tools</summary>
 
   <a href="https://skillicons.dev">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=golang,cs,odin,codeberg,github,neovim,git"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=ruby,golang,cs,odin,codeberg,github,neovim,git"/>
   </a>
 </details>
